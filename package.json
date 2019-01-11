@@ -39,8 +39,7 @@
     "buffer-compare": "=1.1.1",
     "elliptic": "=6.4.0",
     "inherits": "=2.0.1",
-    "lodash": "=4.17.11",
-    "multi-hashing": "git://github.com/foxer666/node-multi-hashing.git"
+    "lodash": "=4.17.11"
   },
   "devDependencies": {
     "npwcore-build": "https://github.com/npw-project/npwcore-build.git",
